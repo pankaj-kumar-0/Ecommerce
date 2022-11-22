@@ -1,0 +1,18 @@
+.products_page{
+    min-height: 800px;
+    /* border: 2px solid red; */
+    height: 100%;
+    width: 100%;
+    margin-top: 120px;
+    position: relative;
+    padding-left: 250px;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+.products_page .products_section{
+    /* border: 2px solid rgb(0, 0, 0); */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}

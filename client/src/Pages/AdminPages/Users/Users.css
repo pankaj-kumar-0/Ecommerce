@@ -1,0 +1,6 @@
+.list_icon{
+    cursor: pointer;
+}
+.list_icon:hover{
+    color: gray;
+}
